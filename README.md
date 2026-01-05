@@ -1,5 +1,7 @@
 # PowerATC
 
+> TypeScript (Vue, Three.js) / Tailwind CSS / Electron
+
 ## Form
 
 ![Converter](/imgs/1-Converter.png)
